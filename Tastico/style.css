@@ -1,0 +1,84 @@
+body{
+  font-family: 'latin';
+  font-style: italic;
+  
+
+}
+header
+{
+    background-image: url(head2.jpg);
+    background-size: cover;
+    background-position: center center;
+    
+    
+}
+.header{ 
+  position:absolute;
+  top: 150px;
+  left: 300px;
+  font-size: 100px ;
+
+
+}
+
+.h1{
+    font-size: inherit;
+}
+/* .breadcrumb{
+    position:absolute;
+    top: 200px;
+    left: 480px;
+    font-size:  20px; 
+    background-color: transparent;
+  background-size: auto;
+} */
+.navbar-brand{
+  font-size: 36px;
+}
+  .chicken{
+    width: 50px;
+  }
+  .card-deck{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.card-deck .card{
+    border: none;
+}
+
+.card-body{
+    text-align: center;
+}
+
+.card-deck .card .card-title{
+    color: #464646;
+}
+
+.card-deck .card .card-text{
+    color: #6F6F78;
+}
+.menu-body{
+  height: 200px;
+  
+}
+.form-body{
+ 
+  width: 1100px;
+  position:absolute;
+  top: 2450px;
+  left: 50px;
+  margin-top: 50px;
+  font-size: 20px;
+  font-family:Adobe Caslon Pro;
+  font-weight: bolder;
+  color:rgba(4, 107, 39, 0.788);
+}
+.head{
+ width: 1170px;
+  font-size: 36px;
+  font-family:Adobe Caslon Pro;
+}
+.desc{
+  font-size: 20px;
+}
